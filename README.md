@@ -1,1 +1,1 @@
-TendinitisDeQuervain.github.io
+https://quervainfinite.github.io/Proyecto-TendinitisdeQuervain/
