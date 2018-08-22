@@ -1,1 +1,1 @@
-TendinitisDeQuervain.fortín.io
+TendinitisDeQuervain.github.io
